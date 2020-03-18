@@ -1,0 +1,28 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(88, 63, 2);
+  background-color: rgb(250, 245, 233);
+}
+
+.intro {
+  font-weight: 600;
+  font-style: italic;
+}
+
+h2.intro {
+  font-size: 30px;
+}
+
+p.intro {
+  font-size: 22px;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-size: 15px;
+}
